@@ -1,0 +1,28 @@
+body
+{background-color: rgb(225, 248, 255);
+color: rgb(3, 45, 180);
+}
+h1{
+    font-family: cursive;
+    color: rgb(2, 13, 107);
+    font-size: 5rem;
+    text-align: center;
+}
+img{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     margin:auto ;
+     border-radius: 25px;
+     box-shadow: rgb(3, 127, 251) 4px 4px;
+}
+p{
+    width: 60%;
+    font-size: 1.3rem;
+    font-weight: 800;
+    display:flex;
+    margin:auto
+    text-align:justify
+}
+
