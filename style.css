@@ -19,10 +19,40 @@ img{
 }
 p{
     width: 60%;
-    font-size: 1.3rem;
+    font-size: 2rem;
     font-weight: 800;
     display:flex;
-    margin:auto
-    text-align:justify
+    margin:auto;
+    text-align: justify;
+}
+h2{
+    color:rgb(2, 53, 255);
+    text-shadow: rgb(163, 207, 243)4px 4px;
+    text-align: center;
+    font-size: 2.5rem;
 }
 
+ul{
+    text-align: center;
+    list-style-type: none;
+    font-size: 2rem;
+}
+.autoria{
+    text-align: left;
+}
+.texto-autoria{
+    text-align: left;
+}
+.cabecalho{
+    display:flex;
+    justify-content: space-evenly;
+    list-style: none;
+    gap:20ex;
+    font-size: 1.5rem;
+    color:aqua;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    
+
+}
