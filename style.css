@@ -1,5 +1,6 @@
 body
 {background-color: rgb(225, 248, 255);
+    background-image: linear-gradient(rgb(142, 236, 243), rgb(115, 168, 218));
 color: rgb(3, 45, 180);
 }
 h1{
@@ -53,6 +54,10 @@ ul{
     text-decoration: none;
     font-weight: bold;
     padding: 10px 15px;
-    
 
+
+}
+a:hover{
+    color:blueviolet;
+    font-style: italic;
 }
